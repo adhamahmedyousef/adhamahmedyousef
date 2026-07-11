@@ -1,20 +1,39 @@
 # Adham Ahmed
 
-Backend Engineer focused on scalable backend systems, automation, and developer tools.
+Backend Engineer specializing in Python and Java.
 
-I build software with Python and Java, specializing in REST APIs, distributed systems, databases, and performance-oriented applications. Alongside backend development, I have a strong competitive programming background and enjoy solving complex algorithmic problems.
+I build scalable backend systems, automation tools, and developer-focused applications with a strong emphasis on clean architecture, performance, and maintainability.
 
-<!--
-**adhamahmedyousef/adhamahmedyousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work primarily involves Flask, Spring Boot, REST APIs, PostgreSQL, Redis, and modern software engineering practices. A strong competitive programming background has shaped my approach to problem solving and performance-oriented software development.
 
-Here are some ideas to get you started:
+## Selected Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VoidHub *(Private Repository)*
+
+A competitive programming platform built with a strong focus on scalability, maintainability, and real-time interactions.
+
+**Live Demo**
+
+**https://voidhub.co**
+
+**Overview**
+
+VoidHub enables competitive programmers to practice through real-time matches, profile management, and online judge integrations.
+
+**Key Features**
+
+- Real-time multiplayer match rooms
+- Authentication and account management
+- Codeforces account integration
+- Match invitations and notifications
+- Background job processing
+- Redis-based caching and distributed locking
+- WebSocket-powered real-time updates
+- PostgreSQL database with optimized indexing
+- Secure session and authentication workflow
+
+**Tech Stack**
+
+Python • Flask • PostgreSQL • Redis • Socket.IO • JavaScript • HTML • CSS
+
+> The source code is private. This repository showcases the project's architecture, features, and technical design.
