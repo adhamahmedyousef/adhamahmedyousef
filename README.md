@@ -1,4 +1,8 @@
-## Hi there 👋
+# Adham Ahmed
+
+Backend Engineer focused on scalable backend systems, automation, and developer tools.
+
+I build software with Python and Java, specializing in REST APIs, distributed systems, databases, and performance-oriented applications. Alongside backend development, I have a strong competitive programming background and enjoy solving complex algorithmic problems.
 
 <!--
 **adhamahmedyousef/adhamahmedyousef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
