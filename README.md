@@ -61,3 +61,39 @@ https://github.com/adhamahmedyousef/ecpc-analytics
 **Tech Stack**
 
 Python • Flask • HTML • CSS • JavaScript
+
+## Technical Skills
+
+### Languages
+
+- Python
+- Java
+- C++
+- C
+- JavaScript
+
+### Backend
+
+- Flask
+- Spring Boot *(Currently Learning)*
+- REST APIs
+- WebSocket Applications
+
+### Databases
+
+- PostgreSQL
+- Redis
+
+### Software Engineering
+
+- System Design
+- Authentication & Authorization
+- Background Job Processing
+- Caching Strategies
+- Performance Optimization
+
+### Tools
+
+- Git
+- Docker
+- Linux
