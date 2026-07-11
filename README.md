@@ -37,3 +37,27 @@ VoidHub enables competitive programmers to practice through real-time matches, p
 Python • Flask • PostgreSQL • Redis • Socket.IO • JavaScript • HTML • CSS
 
 > The source code is private. This repository showcases the project's architecture, features, and technical design.
+
+### ECPC Analytics *(Open Source)*
+
+An open-source web platform for analyzing historical ECPC and ACPC contests through interactive dashboards, searchable problem archives, and contest statistics.
+
+**Repository**
+
+https://github.com/adhamahmedyousef/ecpc-analytics
+
+**Highlights**
+
+- Interactive analytics dashboard
+- Contest archive covering 2018–2026
+- Qualification and Finals statistics
+- Search by topic, difficulty, contest, or year
+- Problem metadata and solve statistics
+- Topic frequency analysis
+- Difficulty distribution across contests
+- Year-by-year contest insights
+- Responsive web interface
+
+**Tech Stack**
+
+Python • Flask • HTML • CSS • JavaScript
