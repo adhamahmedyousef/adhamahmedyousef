@@ -97,3 +97,20 @@ Python • Flask • HTML • CSS • JavaScript
 - Git
 - Docker
 - Linux
+
+
+## Competitive Programming
+
+Competitive programming has significantly influenced the way I approach software engineering, particularly in algorithm design, analytical thinking, and performance optimization.
+
+### Highlights
+
+- ECPC Competitor
+- Competitive Programming Problem Setter
+- Creator of ECPC Analytics
+- Active on Codeforces and LeetCode
+
+### Profiles
+
+- Codeforces: https://codeforces.com/profile/AdhamAfterMidnight
+- LeetCode: https://leetcode.com/u/Adham0X1Star/
